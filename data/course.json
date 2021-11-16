@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Religious Architecture"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Historiography"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Middle Eastern History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5503202e-ae5f-3583-186b-2f34720c9793"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Historiography of Islamic Architecture",
+  "course_description": "This seminar offers a critical review of scholarship on Islamic architecture through close reading of scholarly texts, museum exhibitions, and architectural projects. It also tackles methodological and historiographical questions about the field's formation, genealogy, recent expansion, and its evolving historical and theoretical contours.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.619",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
